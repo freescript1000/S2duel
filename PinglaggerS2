@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/freescript1000/S2duel/refs/heads/main/A"))()
